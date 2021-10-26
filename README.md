@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2021-10-26 at 9 37 25 PM](https://user-images.githubusercontent.com/67871111/138918336-5bbdc7a8-2099-4191-bf56-4aca42681f15.jpeg)
 # Multi Object Tracker and Counter
 
 We first detect objects using Yolo v4 then use DeepSORT to track them across different frames.
